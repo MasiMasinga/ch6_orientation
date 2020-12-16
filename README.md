@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Flutter App which Returns Either Portrait or Landscape App View
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
